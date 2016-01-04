@@ -21,6 +21,7 @@ module.exports.register = function(swig, opts) {
     "pluck",
     "split",
     "trim",
+    "hola",
     "truncate"
   ];
 
